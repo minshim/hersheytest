@@ -15,9 +15,10 @@ html {
 
 body {
   font-family: Hershey-Futural-30;
-color:red;}
+}
 
 
-/* .title-eng {
-  font-family: Hershey-Futural-30;
-} */
+.title-eng {
+/*   font-family: Hershey-Futural-30; */
+  color:red;
+}
